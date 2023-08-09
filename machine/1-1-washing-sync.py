@@ -27,7 +27,7 @@ if __name__ == '__main__':
     t2 = time.time() - t1
     print(f'Executed in {t2:0.2f} seconds.')
 
-
+#
 # Wed Aug  9 14:28:38 2023 - Washing Machine (Basket A): Put the coin
 # Wed Aug  9 14:28:38 2023 - Washing Machine (Basket A): Start washing...
 # Wed Aug  9 14:28:43 2023 - Washing Machine (Basket A): Finished washing
