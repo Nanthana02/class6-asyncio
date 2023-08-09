@@ -63,7 +63,7 @@ if __name__ == "__main__":
     end = time.monotonic()
     print(f"total time {end - start} seconds")
 
-
+#
 #  Wed Aug  9 14:07:43 2023 - Openning connection 
 #  Wed Aug  9 14:07:43 2023 - Openning connection 
 #  Wed Aug  9 14:07:43 2023 - Openning connection 
