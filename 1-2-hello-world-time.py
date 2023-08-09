@@ -15,3 +15,10 @@ async def main():
     await second_awaitable
 
 asyncio.run(main())
+
+
+#
+# Wed Aug  9 13:31:25 2023 - start of : First call
+# Wed Aug  9 13:31:26 2023 - end of : First call
+# Wed Aug  9 13:31:26 2023 - start of : Second call
+# Wed Aug  9 13:31:27 2023 - end of : Second call
